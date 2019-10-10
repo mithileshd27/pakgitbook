@@ -1,2 +1,2 @@
-# Seed Studio
+# Grove Ecosystem
 

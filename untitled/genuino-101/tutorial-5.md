@@ -102,7 +102,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Open the sketch \(G101\_Ex-5\_Timer-Switch.ino\) on Arduino IDE.
 
-![](../../.gitbook/assets/3.png)
+![](../../.gitbook/assets/3%20%281%29.png)
 
 * From Tools menu, select the right board \(i.e., Arduino/Genuino 101\) and COM Port it is connected to.
 

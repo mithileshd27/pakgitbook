@@ -12,7 +12,7 @@ surveyurl: >-
 sku: 101020054
 ---
 
-# Grove 3-Axis Digital Accelerometer
+# Grove 3 Axis Digital Accelerometer
 
 ![](https://github.com/SeeedDocument/Grove_3_Axis_Digital_Accelerometer_Plus_Minus_16g/raw/master/images/Grove-3-Axis_16g_v1.3.jpg)
 

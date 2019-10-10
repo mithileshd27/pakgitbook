@@ -34,7 +34,7 @@ When the button is pressed, HaloCode will start speech recognition and all LEDs 
 
 4. Add a Lighting block light off all LEDs to light off all LEDs after the speech recognition is done.
 
-![](../../../.gitbook/assets/5%20%281%29.gif)
+![](../../../.gitbook/assets/5%20%282%29.gif)
 
 **Recognize "red"**
 

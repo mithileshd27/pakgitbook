@@ -12,7 +12,7 @@ sku: 103020014
 category: Actuator
 ---
 
-# Grove-Dry Reed Relay
+# Grove Dry Reed Relay
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Dry-Reed_Relay/master/img/DryReed_Relay_01.jpg)
 

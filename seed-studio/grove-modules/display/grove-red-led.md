@@ -8,7 +8,7 @@ surveyurl: 'https://www.research.net/r/Grove_Red_LED'
 sku: 104030005
 ---
 
-# Grove - Red LED
+# Grove Red LED
 
 ![](https://github.com/SeeedDocument/Grove-Red_LED/raw/master/img/Grove-LED_Photo.jpg)
 

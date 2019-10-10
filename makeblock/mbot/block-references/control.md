@@ -4,11 +4,11 @@
 
 Waits for a specified period of time to run the script.
 
-![](../../../.gitbook/assets/0%20%287%29.png)
+![](../../../.gitbook/assets/0%20%288%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/1%20%2814%29.png)
+![](../../../.gitbook/assets/1%20%2839%29.png)
 
 When the space key is pressed, all LEDs will light up red, and 1 second later, switch to yellow.
 
@@ -16,11 +16,11 @@ When the space key is pressed, all LEDs will light up red, and 1 second later, s
 
 Runs the script for the specified number of times.
 
-![](../../../.gitbook/assets/2%20%2815%29.png)
+![](../../../.gitbook/assets/2%20%2825%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/3%20%285%29.png)
+![](../../../.gitbook/assets/3%20%288%29.png)
 
 When the space key is pressed, all LEDs will switch between red and yellow for 10 times.
 
@@ -28,11 +28,11 @@ When the space key is pressed, all LEDs will switch between red and yellow for 1
 
 Runs the script repeatedly.
 
-![](../../../.gitbook/assets/4%20%2813%29.png)
+![](../../../.gitbook/assets/4%20%2814%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/5%20%288%29.png)
+![](../../../.gitbook/assets/5%20%2810%29.png)
 
 When the space key is pressed, all LEDs will switch between red and yellow.
 
@@ -88,7 +88,7 @@ When the green flag is clicked, all LEDs will light up red until the on-board bu
 
 Stop the specified script or scripts. There are three options: all, this script, or other scripts in sprite.
 
-![](../../../.gitbook/assets/14%20%284%29.png)
+![](../../../.gitbook/assets/14%20%285%29.png)
 
 **Example:**
 

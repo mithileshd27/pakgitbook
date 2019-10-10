@@ -10,7 +10,7 @@
 
 The motion sensor detects how HaloCode moves, including shaking strength.
 
-![](../../../../.gitbook/assets/1%20%2818%29.png)
+![](../../../../.gitbook/assets/1%20%2847%29.png)
 
 **Set the range of shaking strength**
 
@@ -30,7 +30,7 @@ The motion sensor detects how HaloCode moves, including shaking strength.
 
 4. Likewise, for shaking strength greater than 60, we can duplicate the script. Change the value to 60 and LED color to red.
 
-![](../../../../.gitbook/assets/5.gif)
+![](../../../../.gitbook/assets/5%20%281%29.gif)
 
 **Add event and control**
 

@@ -10,7 +10,7 @@ sku: 101020081
 category: Sensor
 ---
 
-# Grove 6-Axis Accelerometer & Compass V2.0
+# Grove 6 Axis Accelerometer and Compass V2.0
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-6-Axis_AccelerometerAndCompass_V2.0/master/img/Accelerometer_And_Compass_v2.JPG)
 

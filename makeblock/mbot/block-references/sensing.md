@@ -4,11 +4,11 @@
 
 Reports light intensity by the specified light sensor.
 
-![](../../../.gitbook/assets/0%20%288%29.png)
+![](../../../.gitbook/assets/0%20%289%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/1%20%288%29.png)
+![](../../../.gitbook/assets/1%20%2822%29.png)
 
 When the space key is pressed, the light intensity value will be displayed on the external LED panel.
 
@@ -16,11 +16,11 @@ When the space key is pressed, the light intensity value will be displayed on th
 
 Reports the distance of obstacles detected by the ultrasonic sensor that is connected to the specified port.
 
-![](../../../.gitbook/assets/2%20%2813%29.png)
+![](../../../.gitbook/assets/2%20%2821%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/3%20%2810%29.png)
+![](../../../.gitbook/assets/3%20%2814%29.png)
 
 When the space key is pressed, the distance of obstacles detected by the ultrasonic sensor will be displayed on the external LED panel.
 
@@ -28,11 +28,11 @@ When the space key is pressed, the distance of obstacles detected by the ultraso
 
 Reports the value detected by the specified line follower sensor.
 
-![](../../../.gitbook/assets/4%20%289%29.png)
+![](../../../.gitbook/assets/4%20%2810%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/5%20%282%29.png)
+![](../../../.gitbook/assets/5%20%284%29.png)
 
 When the space key is pressed, the value detected by the line follower sensor will be displayed on the external LED panel.
 
@@ -88,7 +88,7 @@ When the space key is pressed, IR message "hello" will be sent out.
 
 Reports the received IR message.
 
-![](../../../.gitbook/assets/14%20%285%29.png)
+![](../../../.gitbook/assets/14%20%286%29.png)
 
 **Example:**
 

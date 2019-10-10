@@ -1,4 +1,4 @@
-# Shock / Tap Detection
+# Shock Tap Detection
 
 ### Learning Objectives:
 

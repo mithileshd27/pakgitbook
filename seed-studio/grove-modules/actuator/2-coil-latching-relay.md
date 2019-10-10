@@ -10,7 +10,7 @@ sku: 103020010
 category: Actuator
 ---
 
-# 2-Coil Latching Relay
+# 2 Coil Latching Relay
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-2-Coil_Latching_Relay/master/img/2Coil_Latching_Relay_01.jpg)
 

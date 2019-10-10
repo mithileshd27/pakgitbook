@@ -4,11 +4,11 @@
 
 When the green flag is clicked, run the script.
 
-![](../../../.gitbook/assets/0%20%2812%29.png)
+![](../../../.gitbook/assets/0%20%2813%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/1%20%283%29.png)
+![](../../../.gitbook/assets/1%20%286%29.png)
 
 When the green flag is clicked, the specified image will be displayed on the external LED panel.
 
@@ -16,11 +16,11 @@ When the green flag is clicked, the specified image will be displayed on the ext
 
 When the specified key is pressed, run the script.
 
-![](../../../.gitbook/assets/2%20%285%29.png)
+![](../../../.gitbook/assets/2%20%287%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/3%20%288%29.png)
+![](../../../.gitbook/assets/3%20%2811%29.png)
 
 When the space key is pressed, the specified image will be displayed on the external LED panel.
 
@@ -32,7 +32,7 @@ When the on-board button is pressed or released, run the script.
 
 **Example:**
 
-![](../../../.gitbook/assets/5%20%2812%29.png)
+![](../../../.gitbook/assets/5%20%2814%29.png)
 
 When the on-board button is pressed, all LEDs will light up red.
 

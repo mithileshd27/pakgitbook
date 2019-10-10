@@ -12,7 +12,7 @@ sku: 101020193
 category: Sensor
 ---
 
-# Grove Barometer Sensor \(BME280\)
+# Grove Barometer Sensor BME280
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BME280/master/img/Grove-Barometer_Sensor-BMP280-700_s.jpg)
 

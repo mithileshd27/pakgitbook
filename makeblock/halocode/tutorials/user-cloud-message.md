@@ -36,7 +36,7 @@ Under "Sprites", click "+" in the Blocks area. The Extension Center page will po
 
 3. Choose "Empty Button1", and drag an Events block when this sprite clicked to the Scripts area.
 
-![](../../../.gitbook/assets/5%20%282%29.gif)
+![](../../../.gitbook/assets/5%20%283%29.gif)
 
 4. Add a User Cloud Message block send user cloud message \(\) and name the message "light\_on".
 

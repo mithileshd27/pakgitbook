@@ -8,7 +8,7 @@ surveyurl: 'https://www.research.net/r/Grove_Inventor_Kit_for_microbit'
 sku: 110060762
 ---
 
-# Grove Inventor Kit for micro:bit
+# Grove Inventor Kit for micro bit
 
 ![](https://github.com/SeeedDocument/Grove_kit_for_microbit/raw/master/img/zoro_im_kitbox.jpg)
 

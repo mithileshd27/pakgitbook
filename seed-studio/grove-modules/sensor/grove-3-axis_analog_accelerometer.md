@@ -10,7 +10,7 @@ sku: 101020051
 category: Sensor
 ---
 
-# Grove-3-Axis\_Analog\_Accelerometer
+# Grove 3 Axis Analog Accelerometer
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-3-Axis_Analog_Accelerometer/master/img/Grove-3-axis_Analog_Accelerometer_photo.JPG)
 

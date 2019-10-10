@@ -12,7 +12,7 @@ sku: 101020068
 category: Sensor
 ---
 
-# Grove Barometer \(High-Accuracy\)
+# Grove Barometer High Accuracy
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer-High-Accuracy/master/img/Grove-Barometer-High-Accuracy.jpg)
 

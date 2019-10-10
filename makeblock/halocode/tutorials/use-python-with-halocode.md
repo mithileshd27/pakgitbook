@@ -7,11 +7,11 @@ Python code need to be uploaded to HaloCode to run.
 
 Switch the programming mode from "Blocks" to "Python" to start using Python.
 
-![](../../../.gitbook/assets/0%20%283%29.png)
+![](../../../.gitbook/assets/0%20%284%29.png)
 
 **Note: please make sure that "HaloCode" is currently selected.**
 
-![](../../../.gitbook/assets/1%20%285%29.png)
+![](../../../.gitbook/assets/1%20%2815%29.png)
 
 Here's an example code:
 
@@ -27,11 +27,11 @@ def on_start():
 
 After programming, click "Upload" to upload the program to HaloCode.
 
-![](../../../.gitbook/assets/2%20%281%29.png)
+![](../../../.gitbook/assets/2%20%283%29.png)
 
 **Convert Blocks to Python Code**
 
-In the Scripts area, click   ![](../../../.gitbook/assets/3%20%289%29.png)   to covert blocks to Python. The following is an example:
+In the Scripts area, click   ![](../../../.gitbook/assets/3%20%2813%29.png)   to covert blocks to Python. The following is an example:
 
 ![](../../../.gitbook/assets/4.png)
 
@@ -41,7 +41,7 @@ In the Scripts area, click   ![](../../../.gitbook/assets/3%20%289%29.png)   to 
 
 The ID and position of each of the 12 LEDs are as follows:
 
-![](../../../.gitbook/assets/5%20%285%29.png)
+![](../../../.gitbook/assets/5%20%287%29.png)
 
 **led.show\_all\(r, g, b\)**
 

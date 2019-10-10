@@ -1,6 +1,6 @@
 # Looks
 
-![](../../../.gitbook/assets/0.jpeg)
+![](../../../.gitbook/assets/0%20%2810%29.jpeg)
 
 Add a LED matrix display to mBot to make it cuter and more playable.
 
@@ -8,7 +8,7 @@ Use a RJ25 cable to connect the LED matrix to a RJ25 port of the main board.
 
 **Coordinate of the Face Panel**
 
-![](../../../.gitbook/assets/1%20%284%29.png)
+![](../../../.gitbook/assets/1%20%289%29.png)
 
 As shown in the figure above, the face panel has the upper-left corner as the origin of the coordinate system, and the direction of x and y is indicated by the arrow. Parameters:
 
@@ -19,11 +19,11 @@ As shown in the figure above, the face panel has the upper-left corner as the or
 
 Displays the specified image on mBot's screen that is connected to the specified port of the main board for the specified amount of seconds.
 
-![](../../../.gitbook/assets/2%20%2816%29.png)
+![](../../../.gitbook/assets/2%20%2826%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/3%20%281%29.png)
+![](../../../.gitbook/assets/3%20%282%29.png)
 
 When the space key is pressed, the LED panel connected to port1 will display the specified image for 1 second.
 
@@ -31,11 +31,11 @@ When the space key is pressed, the LED panel connected to port1 will display the
 
 Displays the specified image on mBot's screen that is connected to the specified port of the main board.
 
-![](../../../.gitbook/assets/4%20%287%29.png)
+![](../../../.gitbook/assets/4%20%288%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/5%20%287%29.png)
+![](../../../.gitbook/assets/5%20%289%29.png)
 
 When the space key is pressed, the LED panel connected to port1 will switch between the two specified images for 10 times, with the time gap of 1 second.
 
@@ -91,7 +91,7 @@ When the space key is pressed, the LED panel connected to port1 will display "20
 
 Displays the specified time on mBot's screen that is connected to the specified port of the main board.
 
-![](../../../.gitbook/assets/14%20%281%29.png)
+![](../../../.gitbook/assets/14%20%282%29.png)
 
 **Example:**
 

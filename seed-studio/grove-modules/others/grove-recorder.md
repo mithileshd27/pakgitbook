@@ -8,7 +8,7 @@ surveyurl: 'https://www.research.net/r/Grove-Recorder'
 sku: 103020018
 ---
 
-# Grove - Recorder
+# Grove Recorder
 
 ![](https://github.com/SeeedDocument/Grove_Recorder/raw/master/img/Grove-Recoder.jpg)
 

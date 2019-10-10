@@ -4,11 +4,11 @@
 
 Performs mathematical addition.
 
-![](../../../.gitbook/assets/0%20%2813%29.png)
+![](../../../.gitbook/assets/0%20%2814%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/1%20%2816%29.png)
+![](../../../.gitbook/assets/1%20%2841%29.png)
 
 When the space key is pressed, the external LED panel will display the result of "2 + 3".
 
@@ -16,11 +16,11 @@ When the space key is pressed, the external LED panel will display the result of
 
 Performs mathematical subtraction.
 
-![](../../../.gitbook/assets/2.png)
+![](../../../.gitbook/assets/2%20%282%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/3%20%282%29.png)
+![](../../../.gitbook/assets/3%20%283%29.png)
 
 When the space key is pressed, the external LED panel will display the result of "3 - 1".
 
@@ -28,11 +28,11 @@ When the space key is pressed, the external LED panel will display the result of
 
 Performs mathematical multiplication.
 
-![](../../../.gitbook/assets/4%20%286%29.png)
+![](../../../.gitbook/assets/4%20%287%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/5%20%284%29.png)
+![](../../../.gitbook/assets/5%20%286%29.png)
 
 When the space key is pressed, the external LED panel will display the result of "2 × 3".
 
@@ -88,7 +88,7 @@ When the green flag is clicked, if the light intensity is smaller than 50, all L
 
 If the value of the specified parameter equals the specified value, the report condition is met.
 
-![](../../../.gitbook/assets/14%20%282%29.png)
+![](../../../.gitbook/assets/14%20%283%29.png)
 
 **Example:**
 

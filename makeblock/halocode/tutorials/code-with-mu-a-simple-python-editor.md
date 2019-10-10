@@ -1,4 +1,4 @@
-# Code with Mu: A Simple Python Editor
+# Code with Mu A Simple Python Editor
 
 Mu is a simple Python editor for beginner programmers. With the support of Mu, you can write Python and Micro Python code in the editor to control the Halocode and its associated electronic modules.
 
@@ -6,7 +6,7 @@ In addition to the basic features of Mu, this version supports more features, li
 
 **Preparation Before Use**
 
-Visit the website below to download the latest version of Mu and firmware of Halocode from GitHub: [https://github.com/FFtust/mu/releases/tag/V0.0.1](https://github.com/FFtust/mu/releases/tag/V0.0.1) ![](../../../.gitbook/assets/0%20%282%29.png) Unzip the file **mu-editor.rar** after downloading. ![](../../../.gitbook/assets/1%20%2812%29.png)
+Visit the website below to download the latest version of Mu and firmware of Halocode from GitHub: [https://github.com/FFtust/mu/releases/tag/V0.0.1](https://github.com/FFtust/mu/releases/tag/V0.0.1) ![](../../../.gitbook/assets/0%20%283%29.png) Unzip the file **mu-editor.rar** after downloading. ![](../../../.gitbook/assets/1%20%2834%29.png)
 
 **Quick Start Guide**
 
@@ -14,21 +14,21 @@ After installation, the programming learning journey will begin!
 
 **1、Hardware Connection**
 
-Connect Halocode to your computer via the Micro USB cable. ![](../../../.gitbook/assets/2%20%289%29.png) Note: You can also connect Halocode to your computer via Makeblock Bluetooth dongle.
+Connect Halocode to your computer via the Micro USB cable. ![](../../../.gitbook/assets/2%20%2814%29.png) Note: You can also connect Halocode to your computer via Makeblock Bluetooth dongle.
 
 **2、Open the Software**
 
-Open the unzipped folder **mu-editor**, then double-click on the the file **.main.exe** to open Mu. ![](../../../.gitbook/assets/3%20%284%29.png)
+Open the unzipped folder **mu-editor**, then double-click on the the file **.main.exe** to open Mu. ![](../../../.gitbook/assets/3%20%286%29.png)
 
 **3、Select Mode**
 
-From the pop-up Select Mode page, select **Makeblock HaloCode** and click **OK**. ![](../../../.gitbook/assets/4%20%2815%29.png)
+From the pop-up Select Mode page, select **Makeblock HaloCode** and click **OK**. ![](../../../.gitbook/assets/4%20%2817%29.png)
 
 Note：You can also click **Mode** to select mode.
 
 **4、Update the Firmware**
 
-Before using the Mu editor, you need to use the latest Halocode firmware that we haven't released yet. Click **Firmware** and select the file **firefly\_firmware\_25\_01\_004-ht1.bin** from the pop-up dialog box. You can check the upgrade progress in the lower left corner of the software. ![](../../../.gitbook/assets/5%20%289%29.png) ![](../../../.gitbook/assets/6%20%288%29.png)
+Before using the Mu editor, you need to use the latest Halocode firmware that we haven't released yet. Click **Firmware** and select the file **firefly\_firmware\_25\_01\_004-ht1.bin** from the pop-up dialog box. You can check the upgrade progress in the lower left corner of the software. ![](../../../.gitbook/assets/5%20%2811%29.png) ![](../../../.gitbook/assets/6%20%288%29.png)
 
 **5、Start Programming**
 
@@ -284,7 +284,7 @@ Accept data line.
 
 **communication**
 
-We have developed the serial communication interface of the Ring Board, so that you can use these interfaces with a variety of hardware with serial communication capability \(such as Raspberry Pie, some camera modules\) . ![](../../../.gitbook/assets/14%20%283%29.png)
+We have developed the serial communication interface of the Ring Board, so that you can use these interfaces with a variety of hardware with serial communication capability \(such as Raspberry Pie, some camera modules\) . ![](../../../.gitbook/assets/14%20%284%29.png)
 
 disable\_channel\_default\(channel\)
 

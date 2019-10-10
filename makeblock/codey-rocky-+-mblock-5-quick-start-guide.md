@@ -1,10 +1,10 @@
-# Codey Rocky + Mblock 5 Quick Start Guide
+# Codey Rocky Quick Start Guide
 
-![](../.gitbook/assets/0%20%2814%29.png)
+![](../.gitbook/assets/0%20%2815%29.png)
 
 \*\*\*\*
 
-![ ](../.gitbook/assets/1%20%282%29.png)
+![ ](../.gitbook/assets/1%20%284%29.png)
 
 For the latest version, please go to the following website:
 
@@ -12,7 +12,7 @@ For the latest version, please go to the following website:
 
 **Interface and Glossary**
 
-![](../.gitbook/assets/2%20%288%29.png)
+![](../.gitbook/assets/2%20%2812%29.png)
 
 Blocks Area ，Scripts Area，Stage Area
 
@@ -22,7 +22,7 @@ Blocks Area ，Scripts Area，Stage Area
 
 **Examples Programs**
 
-![codey](../.gitbook/assets/3%20%2814%29.png) ![codey](../.gitbook/assets/4%20%288%29.png)
+![codey](../.gitbook/assets/3%20%2818%29.png) ![codey](../.gitbook/assets/4%20%289%29.png)
 
 Alpha.8 has 12 new examples programs. Some of the projects in this document can be found in Examples Programs as well.
 
@@ -32,7 +32,7 @@ First, power on your codey. Next, connect the codey with a computer via the USB 
 
 * Start the software mblock. Click Connect Device.
 
-![](../.gitbook/assets/5%20%2814%29.png)
+![](../.gitbook/assets/5%20%2816%29.png)
 
 * Click Connect.
 
@@ -89,7 +89,7 @@ In this project, you will learn how to make an animation with codey and how to t
 
 ![](../.gitbook/assets/18.png)
 
-![](../.gitbook/assets/19%20%282%29.png)
+![](../.gitbook/assets/19%20%283%29.png)
 
 * Go on to finish the image. Draw up the entire process of bouncy ball from bouncing up to landing.
 

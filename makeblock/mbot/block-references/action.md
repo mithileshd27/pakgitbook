@@ -4,11 +4,11 @@
 
 Moves mBot forward at the specified power for the specified amount of time.
 
-![](../../../.gitbook/assets/0%20%281%29.png)
+![](../../../.gitbook/assets/0%20%282%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/1%20%2817%29.png)
+![](../../../.gitbook/assets/1%20%2842%29.png)
 
 When the "↑" key is pressed, mBot will move forward at 50% power for 1 second.
 
@@ -16,11 +16,11 @@ When the "↑" key is pressed, mBot will move forward at 50% power for 1 second.
 
 Moves mBot backward at the specified power for the specified amount of time.
 
-![](../../../.gitbook/assets/2%20%283%29.png)
+![](../../../.gitbook/assets/2%20%285%29.png)
 
 **Example:**
 
-![](../../../.gitbook/assets/3%20%2812%29.png)
+![](../../../.gitbook/assets/3%20%2816%29.png)
 
 When the "↓" key is pressed, mBot will move backward at 50% power for 1 second.
 
@@ -32,7 +32,7 @@ Turns mBot left at the specified power for the specified amount of time.
 
 **Example:**
 
-![](../../../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/5%20%285%29.png)
 
 When the "←" key is pressed, mBot will turn left at 50% power for 1 second.
 

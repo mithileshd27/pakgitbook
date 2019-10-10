@@ -9,7 +9,7 @@ surveyurl: 'https://www.research.net/r/Grove_IoT_Developer_Kit-Microsoft_Azure_E
 sku: 110060422
 ---
 
-# Grove IoT Developer Kit – Microsoft Azure Edition
+# Grove IoT Developer Kit Microsoft Azure Edition
 
 ![](https://github.com/SeeedDocument/Grove_IoT_Developer_Kit-Microsoft_Azure_Edition/raw/master/img/Intel_Edison_for_Arduino_Microsoft-Azure-Edition_cover.jpg)
 

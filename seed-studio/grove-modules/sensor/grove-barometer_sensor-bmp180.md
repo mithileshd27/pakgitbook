@@ -12,7 +12,7 @@ sku: 101020072
 category: Sensor
 ---
 
-# Grove-Barometer\_Sensor-BMP180
+# Grove Barometer Sensor BMP180
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-Barometer_Sensor-BMP180/master/img/Barometer-BMP180-.jpg)
 

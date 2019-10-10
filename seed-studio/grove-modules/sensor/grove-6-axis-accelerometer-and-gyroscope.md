@@ -10,7 +10,7 @@ sku: 105020012
 category: Sensor
 ---
 
-# Grove 6-Axis Accelerometer & Gyroscope
+# Grove 6 Axis Accelerometer and Gyroscope
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove-6-Axis_AccelerometerAndGyroscope/master/img/Grove-6-Axis_AccelerometerAndGyroscope_product_view_1200_s.jpg)
 

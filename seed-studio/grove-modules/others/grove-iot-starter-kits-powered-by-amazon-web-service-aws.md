@@ -8,7 +8,7 @@ surveyurl: 'https://www.research.net/r/Grove_IoT_Starter_Kits_Powered_by_AWS'
 sku: null
 ---
 
-# Grove IoT Starter Kits Powered by Amazon Web Service \(AWS\)
+# Grove IoT Starter Kits Powered by Amazon Web Service AWS
 
 ![](https://github.com/SeeedDocument/Grove_IoT_Starter_Kits_Powered_by_AWS/raw/master/img/Aws_logo.jpg)
 
